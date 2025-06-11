@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Randy Powelson</h1>
 <h3 align="center">A dedicated developer specializing in Golang, with a passion for open source.</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://api.boot.dev/v1/users/public/0e13da13-adad-40a3-9823-bfedd9564285/thumbnail" >
 </p>
 
