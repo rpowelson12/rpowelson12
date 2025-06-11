@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Easypass](github.com/rpowelson12/Easypass)
 
-- 🌱 I’m currently studying at **Boot.dev**
+- 🌱 Archmage (highest tier) at **Boot.dev**
 
 - 👯 I’m looking to collaborate on **any open source project I can!**
 
