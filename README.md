@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Randy Powelson</h1>
 <h3 align="center">A dedicated developer specializing in Golang, with a passion for open source.</h3>
 
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/0e13da13-adad-40a3-9823-bfedd9564285/thumbnail" >
+</p>
+
 <p align="left"> <a href="https://twitter.com/stretch_dev" target="blank"><img src="https://img.shields.io/twitter/follow/stretch_dev?logo=twitter&style=for-the-badge" alt="stretch_dev" /></a> </p>
 
 - 🔭 I’m currently working on [Easypass](github.com/rpowelson12/Easypass)
