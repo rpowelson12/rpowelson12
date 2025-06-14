@@ -13,12 +13,10 @@
 
 - 📫 How to reach me **randy.powelson@gmail.com**
 
-- 📄 Linkedin [www.linkedin.com/in/randy-powelson-97a85b365](www.linkedin.com/in/randy-powelson-97a85b365)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/stretch_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stretch_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/randy powelson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="randy powelson" height="30" width="40" /></a>
 </p>
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/0e13da13-adad-40a3-9823-bfedd9564285/thumbnail" >
